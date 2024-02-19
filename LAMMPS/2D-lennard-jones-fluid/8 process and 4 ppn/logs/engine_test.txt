@@ -1,0 +1,7 @@
+[Coeus engine] [: @ ] [info]  rank 2 with name hermes and mode Mode::Write
+[Coeus engine] [: @ ] [info]  rank 1 with name hermes and mode Mode::Write
+[Coeus engine] [: @ ] [info]  rank 0 with name hermes and mode Mode::Write
+[Coeus engine] [: @ ] [info]  rank 3 with name hermes and mode Mode::Write
+[Coeus engine] [: @ ] [info]  rank 1 with name hermes and mode Mode::Write
+[Coeus engine] [: @ ] [info]  rank 3 with name hermes and mode Mode::Write
+[Coeus engine] [: @ ] [info]  rank 2 with name hermes and mode Mode::Write

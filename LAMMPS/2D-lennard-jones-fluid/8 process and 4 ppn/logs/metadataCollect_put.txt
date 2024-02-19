@@ -1,0 +1,792 @@
+Name, shape, start, Count, Constant Shape, Time, selectionSize, sizeofVariable, 
+ShapeID, steps, stepstart, blockID, blob_name, bucket_name, processor, process
+MetaData: ntimestep,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank0,ntimestep,ares-comp-12,378732
+MetaData: nprocs,,,,False,23:18:44,1,4,ShapeID::GlobalValue,0,0,0,step_1_rank0,nprocs,ares-comp-12,378732
+MetaData: boxxlo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank0,boxxlo,ares-comp-12,378732
+MetaData: boxxhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank0,boxxhi,ares-comp-12,378732
+MetaData: boxylo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank0,boxylo,ares-comp-12,378732
+MetaData: boxyhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank0,boxyhi,ares-comp-12,378732
+MetaData: boxzlo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank0,boxzlo,ares-comp-12,378732
+MetaData: boxzhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank0,boxzhi,ares-comp-12,378732
+MetaData: natoms,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank0,natoms,ares-comp-12,378732
+MetaData: ncolumns,,,,False,23:18:44,1,4,ShapeID::GlobalValue,0,0,0,step_1_rank0,ncolumns,ares-comp-12,378732
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:44,1,8,ShapeID::LocalValue,0,0,0,step_1_rank0,nme,ares-comp-12,378732
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:44,1,8,ShapeID::LocalValue,0,0,0,step_1_rank0,offset,ares-comp-12,378732
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:44,8000,8,ShapeID::GlobalArray,0,0,0,step_1_rank0,atoms,ares-comp-12,378732
+MetaData: ntimestep,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank0,ntimestep,ares-comp-12,378732
+MetaData: nprocs,,,,False,23:18:44,1,4,ShapeID::GlobalValue,0,0,0,step_2_rank0,nprocs,ares-comp-12,378732
+MetaData: boxxlo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank0,boxxlo,ares-comp-12,378732
+MetaData: boxxhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank0,boxxhi,ares-comp-12,378732
+MetaData: boxylo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank0,boxylo,ares-comp-12,378732
+MetaData: boxyhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank0,boxyhi,ares-comp-12,378732
+MetaData: boxzlo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank0,boxzlo,ares-comp-12,378732
+MetaData: boxzhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank0,boxzhi,ares-comp-12,378732
+MetaData: natoms,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank0,natoms,ares-comp-12,378732
+MetaData: ncolumns,,,,False,23:18:44,1,4,ShapeID::GlobalValue,0,0,0,step_2_rank0,ncolumns,ares-comp-12,378732
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:44,1,8,ShapeID::LocalValue,0,0,0,step_2_rank0,nme,ares-comp-12,378732
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:44,1,8,ShapeID::LocalValue,0,0,0,step_2_rank0,offset,ares-comp-12,378732
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:44,8000,8,ShapeID::GlobalArray,0,0,0,step_2_rank0,atoms,ares-comp-12,378732
+MetaData: ntimestep,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank0,ntimestep,ares-comp-12,378732
+MetaData: nprocs,,,,False,23:18:45,1,4,ShapeID::GlobalValue,0,0,0,step_3_rank0,nprocs,ares-comp-12,378732
+MetaData: boxxlo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank0,boxxlo,ares-comp-12,378732
+MetaData: boxxhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank0,boxxhi,ares-comp-12,378732
+MetaData: boxylo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank0,boxylo,ares-comp-12,378732
+MetaData: boxyhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank0,boxyhi,ares-comp-12,378732
+MetaData: boxzlo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank0,boxzlo,ares-comp-12,378732
+MetaData: boxzhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank0,boxzhi,ares-comp-12,378732
+MetaData: natoms,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank0,natoms,ares-comp-12,378732
+MetaData: ncolumns,,,,False,23:18:45,1,4,ShapeID::GlobalValue,0,0,0,step_3_rank0,ncolumns,ares-comp-12,378732
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:45,1,8,ShapeID::LocalValue,0,0,0,step_3_rank0,nme,ares-comp-12,378732
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:45,1,8,ShapeID::LocalValue,0,0,0,step_3_rank0,offset,ares-comp-12,378732
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:45,8000,8,ShapeID::GlobalArray,0,0,0,step_3_rank0,atoms,ares-comp-12,378732
+MetaData: ntimestep,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank0,ntimestep,ares-comp-12,378732
+MetaData: nprocs,,,,False,23:18:45,1,4,ShapeID::GlobalValue,0,0,0,step_4_rank0,nprocs,ares-comp-12,378732
+MetaData: boxxlo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank0,boxxlo,ares-comp-12,378732
+MetaData: boxxhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank0,boxxhi,ares-comp-12,378732
+MetaData: boxylo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank0,boxylo,ares-comp-12,378732
+MetaData: boxyhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank0,boxyhi,ares-comp-12,378732
+MetaData: boxzlo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank0,boxzlo,ares-comp-12,378732
+MetaData: boxzhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank0,boxzhi,ares-comp-12,378732
+MetaData: natoms,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank0,natoms,ares-comp-12,378732
+MetaData: ncolumns,,,,False,23:18:45,1,4,ShapeID::GlobalValue,0,0,0,step_4_rank0,ncolumns,ares-comp-12,378732
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:45,1,8,ShapeID::LocalValue,0,0,0,step_4_rank0,nme,ares-comp-12,378732
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:45,1,8,ShapeID::LocalValue,0,0,0,step_4_rank0,offset,ares-comp-12,378732
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:45,8000,8,ShapeID::GlobalArray,0,0,0,step_4_rank0,atoms,ares-comp-12,378732
+MetaData: ntimestep,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank0,ntimestep,ares-comp-12,378732
+MetaData: nprocs,,,,False,23:18:46,1,4,ShapeID::GlobalValue,0,0,0,step_5_rank0,nprocs,ares-comp-12,378732
+MetaData: boxxlo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank0,boxxlo,ares-comp-12,378732
+MetaData: boxxhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank0,boxxhi,ares-comp-12,378732
+MetaData: boxylo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank0,boxylo,ares-comp-12,378732
+MetaData: boxyhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank0,boxyhi,ares-comp-12,378732
+MetaData: boxzlo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank0,boxzlo,ares-comp-12,378732
+MetaData: boxzhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank0,boxzhi,ares-comp-12,378732
+MetaData: natoms,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank0,natoms,ares-comp-12,378732
+MetaData: ncolumns,,,,False,23:18:46,1,4,ShapeID::GlobalValue,0,0,0,step_5_rank0,ncolumns,ares-comp-12,378732
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:46,1,8,ShapeID::LocalValue,0,0,0,step_5_rank0,nme,ares-comp-12,378732
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:46,1,8,ShapeID::LocalValue,0,0,0,step_5_rank0,offset,ares-comp-12,378732
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:46,8000,8,ShapeID::GlobalArray,0,0,0,step_5_rank0,atoms,ares-comp-12,378732
+MetaData: ntimestep,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank0,ntimestep,ares-comp-12,378732
+MetaData: nprocs,,,,False,23:18:46,1,4,ShapeID::GlobalValue,0,0,0,step_6_rank0,nprocs,ares-comp-12,378732
+MetaData: boxxlo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank0,boxxlo,ares-comp-12,378732
+MetaData: boxxhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank0,boxxhi,ares-comp-12,378732
+MetaData: boxylo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank0,boxylo,ares-comp-12,378732
+MetaData: boxyhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank0,boxyhi,ares-comp-12,378732
+MetaData: boxzlo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank0,boxzlo,ares-comp-12,378732
+MetaData: boxzhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank0,boxzhi,ares-comp-12,378732
+Name, shape, start, Count, Constant Shape, Time, selectionSize, sizeofVariable, 
+ShapeID, steps, stepstart, blockID, blob_name, bucket_name, processor, process
+MetaData: ntimestep,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank2,ntimestep,ares-comp-12,378731
+MetaData: nprocs,,,,False,23:18:44,1,4,ShapeID::GlobalValue,0,0,0,step_1_rank2,nprocs,ares-comp-12,378731
+MetaData: boxxlo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank2,boxxlo,ares-comp-12,378731
+MetaData: boxxhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank2,boxxhi,ares-comp-12,378731
+MetaData: boxylo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank2,boxylo,ares-comp-12,378731
+MetaData: boxyhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank2,boxyhi,ares-comp-12,378731
+MetaData: boxzlo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank2,boxzlo,ares-comp-12,378731
+MetaData: boxzhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank2,boxzhi,ares-comp-12,378731
+MetaData: natoms,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank2,natoms,ares-comp-12,378731
+MetaData: ncolumns,,,,False,23:18:44,1,4,ShapeID::GlobalValue,0,0,0,step_1_rank2,ncolumns,ares-comp-12,378731
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:44,1,8,ShapeID::LocalValue,0,0,0,step_1_rank2,nme,ares-comp-12,378731
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:44,1,8,ShapeID::LocalValue,0,0,0,step_1_rank2,offset,ares-comp-12,378731
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:44,8000,8,ShapeID::GlobalArray,0,0,0,step_1_rank2,atoms,ares-comp-12,378731
+MetaData: ntimestep,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank2,ntimestep,ares-comp-12,378731
+MetaData: nprocs,,,,False,23:18:44,1,4,ShapeID::GlobalValue,0,0,0,step_2_rank2,nprocs,ares-comp-12,378731
+MetaData: boxxlo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank2,boxxlo,ares-comp-12,378731
+MetaData: boxxhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank2,boxxhi,ares-comp-12,378731
+MetaData: boxylo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank2,boxylo,ares-comp-12,378731
+MetaData: boxyhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank2,boxyhi,ares-comp-12,378731
+MetaData: boxzlo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank2,boxzlo,ares-comp-12,378731
+MetaData: boxzhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank2,boxzhi,ares-comp-12,378731
+MetaData: natoms,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank2,natoms,ares-comp-12,378731
+MetaData: ncolumns,,,,False,23:18:44,1,4,ShapeID::GlobalValue,0,0,0,step_2_rank2,ncolumns,ares-comp-12,378731
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:44,1,8,ShapeID::LocalValue,0,0,0,step_2_rank2,nme,ares-comp-12,378731
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:44,1,8,ShapeID::LocalValue,0,0,0,step_2_rank2,offset,ares-comp-12,378731
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:44,8000,8,ShapeID::GlobalArray,0,0,0,step_2_rank2,atoms,ares-comp-12,378731
+MetaData: ntimestep,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank2,ntimestep,ares-comp-12,378731
+MetaData: nprocs,,,,False,23:18:45,1,4,ShapeID::GlobalValue,0,0,0,step_3_rank2,nprocs,ares-comp-12,378731
+MetaData: boxxlo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank2,boxxlo,ares-comp-12,378731
+MetaData: boxxhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank2,boxxhi,ares-comp-12,378731
+MetaData: boxylo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank2,boxylo,ares-comp-12,378731
+MetaData: boxyhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank2,boxyhi,ares-comp-12,378731
+MetaData: boxzlo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank2,boxzlo,ares-comp-12,378731
+MetaData: boxzhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank2,boxzhi,ares-comp-12,378731
+MetaData: natoms,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank2,natoms,ares-comp-12,378731
+MetaData: ncolumns,,,,False,23:18:45,1,4,ShapeID::GlobalValue,0,0,0,step_3_rank2,ncolumns,ares-comp-12,378731
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:45,1,8,ShapeID::LocalValue,0,0,0,step_3_rank2,nme,ares-comp-12,378731
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:45,1,8,ShapeID::LocalValue,0,0,0,step_3_rank2,offset,ares-comp-12,378731
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:45,8000,8,ShapeID::GlobalArray,0,0,0,step_3_rank2,atoms,ares-comp-12,378731
+MetaData: ntimestep,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank2,ntimestep,ares-comp-12,378731
+MetaData: nprocs,,,,False,23:18:45,1,4,ShapeID::GlobalValue,0,0,0,step_4_rank2,nprocs,ares-comp-12,378731
+MetaData: boxxlo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank2,boxxlo,ares-comp-12,378731
+MetaData: boxxhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank2,boxxhi,ares-comp-12,378731
+MetaData: boxylo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank2,boxylo,ares-comp-12,378731
+MetaData: boxyhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank2,boxyhi,ares-comp-12,378731
+MetaData: boxzlo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank2,boxzlo,ares-comp-12,378731
+MetaData: boxzhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank2,boxzhi,ares-comp-12,378731
+MetaData: natoms,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank2,natoms,ares-comp-12,378731
+MetaData: ncolumns,,,,False,23:18:45,1,4,ShapeID::GlobalValue,0,0,0,step_4_rank2,ncolumns,ares-comp-12,378731
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:45,1,8,ShapeID::LocalValue,0,0,0,step_4_rank2,nme,ares-comp-12,378731
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:45,1,8,ShapeID::LocalValue,0,0,0,step_4_rank2,offset,ares-comp-12,378731
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:45,8000,8,ShapeID::GlobalArray,0,0,0,step_4_rank2,atoms,ares-comp-12,378731
+MetaData: ntimestep,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank2,ntimestep,ares-comp-12,378731
+MetaData: nprocs,,,,False,23:18:46,1,4,ShapeID::GlobalValue,0,0,0,step_5_rank2,nprocs,ares-comp-12,378731
+MetaData: boxxlo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank2,boxxlo,ares-comp-12,378731
+MetaData: boxxhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank2,boxxhi,ares-comp-12,378731
+MetaData: boxylo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank2,boxylo,ares-comp-12,378731
+MetaData: boxyhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank2,boxyhi,ares-comp-12,378731
+MetaData: boxzlo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank2,boxzlo,ares-comp-12,378731
+MetaData: boxzhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank2,boxzhi,ares-comp-12,378731
+MetaData: natoms,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank2,natoms,ares-comp-12,378731
+MetaData: ncolumns,,,,False,23:18:46,1,4,ShapeID::GlobalValue,0,0,0,step_5_rank2,ncolumns,ares-comp-12,378731
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:46,1,8,ShapeID::LocalValue,0,0,0,step_5_rank2,nme,ares-comp-12,378731
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:46,1,8,ShapeID::LocalValue,0,0,0,step_5_rank2,offset,ares-comp-12,378731
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:46,8000,8,ShapeID::GlobalArray,0,0,0,step_5_rank2,atoms,ares-comp-12,378731
+MetaData: ntimestep,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank2,ntimestep,ares-comp-12,378731
+MetaData: nprocs,,,,False,23:18:46,1,4,ShapeID::GlobalValue,0,0,0,step_6_rank2,nprocs,ares-comp-12,378731
+MetaData: boxxlo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank2,boxxlo,ares-comp-12,378731
+MetaData: boxxhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank2,boxxhi,ares-comp-12,378731
+MetaData: boxylo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank2,boxylo,ares-comp-12,378731
+MetaData: boxyhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank2,boxyhi,ares-comp-12,378731
+MetaData: boxzlo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank2,boxzlo,ares-comp-12,378731
+MetaData: boxzhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank2,boxzhi,ares-comp-12,378731
+Name, shape, start, Count, Constant Shape, Time, selectionSize, sizeofVariable, 
+ShapeID, steps, stepstart, blockID, blob_name, bucket_name, processor, process
+MetaData: ntimestep,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank3,ntimestep,ares-comp-12,378730
+MetaData: nprocs,,,,False,23:18:44,1,4,ShapeID::GlobalValue,0,0,0,step_1_rank3,nprocs,ares-comp-12,378730
+MetaData: boxxlo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank3,boxxlo,ares-comp-12,378730
+MetaData: boxxhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank3,boxxhi,ares-comp-12,378730
+MetaData: boxylo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank3,boxylo,ares-comp-12,378730
+MetaData: boxyhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank3,boxyhi,ares-comp-12,378730
+MetaData: boxzlo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank3,boxzlo,ares-comp-12,378730
+MetaData: boxzhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank3,boxzhi,ares-comp-12,378730
+MetaData: natoms,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank3,natoms,ares-comp-12,378730
+MetaData: ncolumns,,,,False,23:18:44,1,4,ShapeID::GlobalValue,0,0,0,step_1_rank3,ncolumns,ares-comp-12,378730
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:44,1,8,ShapeID::LocalValue,0,0,0,step_1_rank3,nme,ares-comp-12,378730
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:44,1,8,ShapeID::LocalValue,0,0,0,step_1_rank3,offset,ares-comp-12,378730
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:44,8000,8,ShapeID::GlobalArray,0,0,0,step_1_rank3,atoms,ares-comp-12,378730
+MetaData: ntimestep,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank3,ntimestep,ares-comp-12,378730
+MetaData: nprocs,,,,False,23:18:44,1,4,ShapeID::GlobalValue,0,0,0,step_2_rank3,nprocs,ares-comp-12,378730
+MetaData: boxxlo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank3,boxxlo,ares-comp-12,378730
+MetaData: boxxhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank3,boxxhi,ares-comp-12,378730
+MetaData: boxylo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank3,boxylo,ares-comp-12,378730
+MetaData: boxyhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank3,boxyhi,ares-comp-12,378730
+MetaData: boxzlo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank3,boxzlo,ares-comp-12,378730
+MetaData: boxzhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank3,boxzhi,ares-comp-12,378730
+MetaData: natoms,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank3,natoms,ares-comp-12,378730
+MetaData: ncolumns,,,,False,23:18:44,1,4,ShapeID::GlobalValue,0,0,0,step_2_rank3,ncolumns,ares-comp-12,378730
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:44,1,8,ShapeID::LocalValue,0,0,0,step_2_rank3,nme,ares-comp-12,378730
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:44,1,8,ShapeID::LocalValue,0,0,0,step_2_rank3,offset,ares-comp-12,378730
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:44,8000,8,ShapeID::GlobalArray,0,0,0,step_2_rank3,atoms,ares-comp-12,378730
+MetaData: ntimestep,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank3,ntimestep,ares-comp-12,378730
+MetaData: nprocs,,,,False,23:18:45,1,4,ShapeID::GlobalValue,0,0,0,step_3_rank3,nprocs,ares-comp-12,378730
+MetaData: boxxlo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank3,boxxlo,ares-comp-12,378730
+MetaData: boxxhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank3,boxxhi,ares-comp-12,378730
+MetaData: boxylo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank3,boxylo,ares-comp-12,378730
+MetaData: boxyhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank3,boxyhi,ares-comp-12,378730
+MetaData: boxzlo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank3,boxzlo,ares-comp-12,378730
+MetaData: boxzhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank3,boxzhi,ares-comp-12,378730
+MetaData: natoms,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank3,natoms,ares-comp-12,378730
+MetaData: ncolumns,,,,False,23:18:45,1,4,ShapeID::GlobalValue,0,0,0,step_3_rank3,ncolumns,ares-comp-12,378730
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:45,1,8,ShapeID::LocalValue,0,0,0,step_3_rank3,nme,ares-comp-12,378730
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:45,1,8,ShapeID::LocalValue,0,0,0,step_3_rank3,offset,ares-comp-12,378730
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:45,8000,8,ShapeID::GlobalArray,0,0,0,step_3_rank3,atoms,ares-comp-12,378730
+MetaData: ntimestep,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank3,ntimestep,ares-comp-12,378730
+MetaData: nprocs,,,,False,23:18:45,1,4,ShapeID::GlobalValue,0,0,0,step_4_rank3,nprocs,ares-comp-12,378730
+MetaData: boxxlo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank3,boxxlo,ares-comp-12,378730
+MetaData: boxxhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank3,boxxhi,ares-comp-12,378730
+MetaData: boxylo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank3,boxylo,ares-comp-12,378730
+MetaData: boxyhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank3,boxyhi,ares-comp-12,378730
+MetaData: boxzlo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank3,boxzlo,ares-comp-12,378730
+MetaData: boxzhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank3,boxzhi,ares-comp-12,378730
+MetaData: natoms,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank3,natoms,ares-comp-12,378730
+MetaData: ncolumns,,,,False,23:18:45,1,4,ShapeID::GlobalValue,0,0,0,step_4_rank3,ncolumns,ares-comp-12,378730
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:45,1,8,ShapeID::LocalValue,0,0,0,step_4_rank3,nme,ares-comp-12,378730
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:45,1,8,ShapeID::LocalValue,0,0,0,step_4_rank3,offset,ares-comp-12,378730
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:45,8000,8,ShapeID::GlobalArray,0,0,0,step_4_rank3,atoms,ares-comp-12,378730
+MetaData: ntimestep,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank3,ntimestep,ares-comp-12,378730
+MetaData: nprocs,,,,False,23:18:46,1,4,ShapeID::GlobalValue,0,0,0,step_5_rank3,nprocs,ares-comp-12,378730
+MetaData: boxxlo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank3,boxxlo,ares-comp-12,378730
+MetaData: boxxhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank3,boxxhi,ares-comp-12,378730
+MetaData: boxylo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank3,boxylo,ares-comp-12,378730
+MetaData: boxyhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank3,boxyhi,ares-comp-12,378730
+MetaData: boxzlo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank3,boxzlo,ares-comp-12,378730
+MetaData: boxzhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank3,boxzhi,ares-comp-12,378730
+MetaData: natoms,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank3,natoms,ares-comp-12,378730
+MetaData: ncolumns,,,,False,23:18:46,1,4,ShapeID::GlobalValue,0,0,0,step_5_rank3,ncolumns,ares-comp-12,378730
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:46,1,8,ShapeID::LocalValue,0,0,0,step_5_rank3,nme,ares-comp-12,378730
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:46,1,8,ShapeID::LocalValue,0,0,0,step_5_rank3,offset,ares-comp-12,378730
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:46,8000,8,ShapeID::GlobalArray,0,0,0,step_5_rank3,atoms,ares-comp-12,378730
+MetaData: ntimestep,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank3,ntimestep,ares-comp-12,378730
+MetaData: nprocs,,,,False,23:18:46,1,4,ShapeID::GlobalValue,0,0,0,step_6_rank3,nprocs,ares-comp-12,378730
+MetaData: boxxlo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank3,boxxlo,ares-comp-12,378730
+MetaData: boxxhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank3,boxxhi,ares-comp-12,378730
+MetaData: boxylo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank3,boxylo,ares-comp-12,378730
+MetaData: boxyhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank3,boxyhi,ares-comp-12,378730
+MetaData: boxzlo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank3,boxzlo,ares-comp-12,378730
+MetaData: boxzhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank3,boxzhi,ares-comp-12,378730
+Name, shape, start, Count, Constant Shape, Time, selectionSize, sizeofVariable, 
+ShapeID, steps, stepstart, blockID, blob_name, bucket_name, processor, process
+MetaData: ntimestep,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank1,ntimestep,ares-comp-12,378729
+MetaData: nprocs,,,,False,23:18:44,1,4,ShapeID::GlobalValue,0,0,0,step_1_rank1,nprocs,ares-comp-12,378729
+MetaData: boxxlo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank1,boxxlo,ares-comp-12,378729
+MetaData: boxxhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank1,boxxhi,ares-comp-12,378729
+MetaData: boxylo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank1,boxylo,ares-comp-12,378729
+MetaData: boxyhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank1,boxyhi,ares-comp-12,378729
+MetaData: boxzlo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank1,boxzlo,ares-comp-12,378729
+MetaData: boxzhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank1,boxzhi,ares-comp-12,378729
+MetaData: natoms,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_1_rank1,natoms,ares-comp-12,378729
+MetaData: ncolumns,,,,False,23:18:44,1,4,ShapeID::GlobalValue,0,0,0,step_1_rank1,ncolumns,ares-comp-12,378729
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:44,1,8,ShapeID::LocalValue,0,0,0,step_1_rank1,nme,ares-comp-12,378729
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:44,1,8,ShapeID::LocalValue,0,0,0,step_1_rank1,offset,ares-comp-12,378729
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:44,8000,8,ShapeID::GlobalArray,0,0,0,step_1_rank1,atoms,ares-comp-12,378729
+MetaData: ntimestep,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank1,ntimestep,ares-comp-12,378729
+MetaData: nprocs,,,,False,23:18:44,1,4,ShapeID::GlobalValue,0,0,0,step_2_rank1,nprocs,ares-comp-12,378729
+MetaData: boxxlo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank1,boxxlo,ares-comp-12,378729
+MetaData: boxxhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank1,boxxhi,ares-comp-12,378729
+MetaData: boxylo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank1,boxylo,ares-comp-12,378729
+MetaData: boxyhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank1,boxyhi,ares-comp-12,378729
+MetaData: boxzlo,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank1,boxzlo,ares-comp-12,378729
+MetaData: boxzhi,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank1,boxzhi,ares-comp-12,378729
+MetaData: natoms,,,,False,23:18:44,1,8,ShapeID::GlobalValue,0,0,0,step_2_rank1,natoms,ares-comp-12,378729
+MetaData: ncolumns,,,,False,23:18:44,1,4,ShapeID::GlobalValue,0,0,0,step_2_rank1,ncolumns,ares-comp-12,378729
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:44,1,8,ShapeID::LocalValue,0,0,0,step_2_rank1,nme,ares-comp-12,378729
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:44,1,8,ShapeID::LocalValue,0,0,0,step_2_rank1,offset,ares-comp-12,378729
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:44,8000,8,ShapeID::GlobalArray,0,0,0,step_2_rank1,atoms,ares-comp-12,378729
+MetaData: ntimestep,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank1,ntimestep,ares-comp-12,378729
+MetaData: nprocs,,,,False,23:18:45,1,4,ShapeID::GlobalValue,0,0,0,step_3_rank1,nprocs,ares-comp-12,378729
+MetaData: boxxlo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank1,boxxlo,ares-comp-12,378729
+MetaData: boxxhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank1,boxxhi,ares-comp-12,378729
+MetaData: boxylo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank1,boxylo,ares-comp-12,378729
+MetaData: boxyhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank1,boxyhi,ares-comp-12,378729
+MetaData: boxzlo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank1,boxzlo,ares-comp-12,378729
+MetaData: boxzhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank1,boxzhi,ares-comp-12,378729
+MetaData: natoms,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_3_rank1,natoms,ares-comp-12,378729
+MetaData: ncolumns,,,,False,23:18:45,1,4,ShapeID::GlobalValue,0,0,0,step_3_rank1,ncolumns,ares-comp-12,378729
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:45,1,8,ShapeID::LocalValue,0,0,0,step_3_rank1,nme,ares-comp-12,378729
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:45,1,8,ShapeID::LocalValue,0,0,0,step_3_rank1,offset,ares-comp-12,378729
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:45,8000,8,ShapeID::GlobalArray,0,0,0,step_3_rank1,atoms,ares-comp-12,378729
+MetaData: ntimestep,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank1,ntimestep,ares-comp-12,378729
+MetaData: nprocs,,,,False,23:18:45,1,4,ShapeID::GlobalValue,0,0,0,step_4_rank1,nprocs,ares-comp-12,378729
+MetaData: boxxlo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank1,boxxlo,ares-comp-12,378729
+MetaData: boxxhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank1,boxxhi,ares-comp-12,378729
+MetaData: boxylo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank1,boxylo,ares-comp-12,378729
+MetaData: boxyhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank1,boxyhi,ares-comp-12,378729
+MetaData: boxzlo,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank1,boxzlo,ares-comp-12,378729
+MetaData: boxzhi,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank1,boxzhi,ares-comp-12,378729
+MetaData: natoms,,,,False,23:18:45,1,8,ShapeID::GlobalValue,0,0,0,step_4_rank1,natoms,ares-comp-12,378729
+MetaData: ncolumns,,,,False,23:18:45,1,4,ShapeID::GlobalValue,0,0,0,step_4_rank1,ncolumns,ares-comp-12,378729
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:45,1,8,ShapeID::LocalValue,0,0,0,step_4_rank1,nme,ares-comp-12,378729
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:45,1,8,ShapeID::LocalValue,0,0,0,step_4_rank1,offset,ares-comp-12,378729
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:45,8000,8,ShapeID::GlobalArray,0,0,0,step_4_rank1,atoms,ares-comp-12,378729
+MetaData: ntimestep,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank1,ntimestep,ares-comp-12,378729
+MetaData: nprocs,,,,False,23:18:46,1,4,ShapeID::GlobalValue,0,0,0,step_5_rank1,nprocs,ares-comp-12,378729
+MetaData: boxxlo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank1,boxxlo,ares-comp-12,378729
+MetaData: boxxhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank1,boxxhi,ares-comp-12,378729
+MetaData: boxylo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank1,boxylo,ares-comp-12,378729
+MetaData: boxyhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank1,boxyhi,ares-comp-12,378729
+MetaData: boxzlo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank1,boxzlo,ares-comp-12,378729
+MetaData: boxzhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank1,boxzhi,ares-comp-12,378729
+MetaData: natoms,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_5_rank1,natoms,ares-comp-12,378729
+MetaData: ncolumns,,,,False,23:18:46,1,4,ShapeID::GlobalValue,0,0,0,step_5_rank1,ncolumns,ares-comp-12,378729
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:46,1,8,ShapeID::LocalValue,0,0,0,step_5_rank1,nme,ares-comp-12,378729
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:46,1,8,ShapeID::LocalValue,0,0,0,step_5_rank1,offset,ares-comp-12,378729
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:46,8000,8,ShapeID::GlobalArray,0,0,0,step_5_rank1,atoms,ares-comp-12,378729
+MetaData: ntimestep,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank1,ntimestep,ares-comp-12,378729
+MetaData: nprocs,,,,False,23:18:46,1,4,ShapeID::GlobalValue,0,0,0,step_6_rank1,nprocs,ares-comp-12,378729
+MetaData: boxxlo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank1,boxxlo,ares-comp-12,378729
+MetaData: boxxhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank1,boxxhi,ares-comp-12,378729
+MetaData: boxylo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank1,boxylo,ares-comp-12,378729
+MetaData: boxyhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank1,boxyhi,ares-comp-12,378729
+MetaData: boxzlo,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank1,boxzlo,ares-comp-12,378729
+MetaData: boxzhi,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank2,boxzhi,ares-comp-11,897779
+MetaData: natoms,,,,False,23:18:33,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank2,natoms,ares-comp-11,897779
+MetaData: ncolumns,,,,False,23:18:33,1,4,ShapeID::GlobalValue,0,0,0,step_6_rank2,ncolumns,ares-comp-11,897779
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:33,1,8,ShapeID::LocalValue,0,0,0,step_6_rank2,nme,ares-comp-11,897779
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:33,1,8,ShapeID::LocalValue,0,0,0,step_6_rank2,offset,ares-comp-11,897779
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:33,8000,8,ShapeID::GlobalArray,0,0,0,step_6_rank2,atoms,ares-comp-11,897779
+MetaData: ntimestep,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank2,ntimestep,ares-comp-11,897779
+MetaData: nprocs,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_7_rank2,nprocs,ares-comp-11,897779
+MetaData: boxxlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank2,boxxlo,ares-comp-11,897779
+MetaData: boxxhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank2,boxxhi,ares-comp-11,897779
+MetaData: boxylo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank2,boxylo,ares-comp-11,897779
+MetaData: boxyhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank2,boxyhi,ares-comp-11,897779
+MetaData: boxzlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank2,boxzlo,ares-comp-11,897779
+MetaData: boxzhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank2,boxzhi,ares-comp-11,897779
+MetaData: natoms,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank2,natoms,ares-comp-11,897779
+MetaData: ncolumns,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_7_rank2,ncolumns,ares-comp-11,897779
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_7_rank2,nme,ares-comp-11,897779
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_7_rank2,offset,ares-comp-11,897779
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:34,8000,8,ShapeID::GlobalArray,0,0,0,step_7_rank2,atoms,ares-comp-11,897779
+MetaData: ntimestep,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank2,ntimestep,ares-comp-11,897779
+MetaData: nprocs,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_8_rank2,nprocs,ares-comp-11,897779
+MetaData: boxxlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank2,boxxlo,ares-comp-11,897779
+MetaData: boxxhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank2,boxxhi,ares-comp-11,897779
+MetaData: boxylo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank2,boxylo,ares-comp-11,897779
+MetaData: boxyhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank2,boxyhi,ares-comp-11,897779
+MetaData: boxzlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank2,boxzlo,ares-comp-11,897779
+MetaData: boxzhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank2,boxzhi,ares-comp-11,897779
+MetaData: natoms,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank2,natoms,ares-comp-11,897779
+MetaData: ncolumns,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_8_rank2,ncolumns,ares-comp-11,897779
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_8_rank2,nme,ares-comp-11,897779
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_8_rank2,offset,ares-comp-11,897779
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:34,8000,8,ShapeID::GlobalArray,0,0,0,step_8_rank2,atoms,ares-comp-11,897779
+MetaData: ntimestep,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank2,ntimestep,ares-comp-11,897779
+MetaData: nprocs,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_9_rank2,nprocs,ares-comp-11,897779
+MetaData: boxxlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank2,boxxlo,ares-comp-11,897779
+MetaData: boxxhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank2,boxxhi,ares-comp-11,897779
+MetaData: boxylo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank2,boxylo,ares-comp-11,897779
+MetaData: boxyhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank2,boxyhi,ares-comp-11,897779
+MetaData: boxzlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank2,boxzlo,ares-comp-11,897779
+MetaData: boxzhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank2,boxzhi,ares-comp-11,897779
+MetaData: natoms,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank2,natoms,ares-comp-11,897779
+MetaData: ncolumns,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_9_rank2,ncolumns,ares-comp-11,897779
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_9_rank2,nme,ares-comp-11,897779
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_9_rank2,offset,ares-comp-11,897779
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:34,8000,8,ShapeID::GlobalArray,0,0,0,step_9_rank2,atoms,ares-comp-11,897779
+MetaData: ntimestep,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank2,ntimestep,ares-comp-11,897779
+MetaData: nprocs,,,,False,23:18:35,1,4,ShapeID::GlobalValue,0,0,0,step_10_rank2,nprocs,ares-comp-11,897779
+MetaData: boxxlo,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank2,boxxlo,ares-comp-11,897779
+MetaData: boxxhi,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank2,boxxhi,ares-comp-11,897779
+MetaData: boxylo,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank2,boxylo,ares-comp-11,897779
+MetaData: boxyhi,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank2,boxyhi,ares-comp-11,897779
+MetaData: boxzlo,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank2,boxzlo,ares-comp-11,897779
+MetaData: boxzhi,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank2,boxzhi,ares-comp-11,897779
+MetaData: natoms,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank2,natoms,ares-comp-11,897779
+MetaData: ncolumns,,,,False,23:18:35,1,4,ShapeID::GlobalValue,0,0,0,step_10_rank2,ncolumns,ares-comp-11,897779
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:35,1,8,ShapeID::LocalValue,0,0,0,step_10_rank2,nme,ares-comp-11,897779
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:35,1,8,ShapeID::LocalValue,0,0,0,step_10_rank2,offset,ares-comp-11,897779
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:35,8000,8,ShapeID::GlobalArray,0,0,0,step_10_rank2,atoms,ares-comp-11,897779
+MetaData: ntimestep,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank2,ntimestep,ares-comp-11,897779
+MetaData: nprocs,,,,False,23:18:35,1,4,ShapeID::GlobalValue,0,0,0,step_11_rank2,nprocs,ares-comp-11,897779
+MetaData: boxxlo,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank2,boxxlo,ares-comp-11,897779
+MetaData: boxxhi,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank2,boxxhi,ares-comp-11,897779
+MetaData: boxylo,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank2,boxylo,ares-comp-11,897779
+MetaData: boxyhi,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank2,boxyhi,ares-comp-11,897779
+MetaData: boxzlo,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank2,boxzlo,ares-comp-11,897779
+MetaData: boxzhi,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank2,boxzhi,ares-comp-11,897779
+MetaData: natoms,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank2,natoms,ares-comp-11,897779
+MetaData: ncolumns,,,,False,23:18:35,1,4,ShapeID::GlobalValue,0,0,0,step_11_rank2,ncolumns,ares-comp-11,897779
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:35,1,8,ShapeID::LocalValue,0,0,0,step_11_rank2,nme,ares-comp-11,897779
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:35,1,8,ShapeID::LocalValue,0,0,0,step_11_rank2,offset,ares-comp-11,897779
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:35,8000,8,ShapeID::GlobalArray,0,0,0,step_11_rank2,atoms,ares-comp-11,897779
+MetaData: natoms,,,,False,23:18:33,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank1,natoms,ares-comp-11,897782
+MetaData: ncolumns,,,,False,23:18:33,1,4,ShapeID::GlobalValue,0,0,0,step_6_rank1,ncolumns,ares-comp-11,897782
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:33,1,8,ShapeID::LocalValue,0,0,0,step_6_rank1,nme,ares-comp-11,897782
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:33,1,8,ShapeID::LocalValue,0,0,0,step_6_rank1,offset,ares-comp-11,897782
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:33,8000,8,ShapeID::GlobalArray,0,0,0,step_6_rank1,atoms,ares-comp-11,897782
+MetaData: ntimestep,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank1,ntimestep,ares-comp-11,897782
+MetaData: nprocs,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_7_rank1,nprocs,ares-comp-11,897782
+MetaData: boxxlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank1,boxxlo,ares-comp-11,897782
+MetaData: boxxhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank1,boxxhi,ares-comp-11,897782
+MetaData: boxylo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank1,boxylo,ares-comp-11,897782
+MetaData: boxyhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank1,boxyhi,ares-comp-11,897782
+MetaData: boxzlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank1,boxzlo,ares-comp-11,897782
+MetaData: boxzhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank1,boxzhi,ares-comp-11,897782
+MetaData: natoms,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank1,natoms,ares-comp-11,897782
+MetaData: ncolumns,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_7_rank1,ncolumns,ares-comp-11,897782
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_7_rank1,nme,ares-comp-11,897782
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_7_rank1,offset,ares-comp-11,897782
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:34,8000,8,ShapeID::GlobalArray,0,0,0,step_7_rank1,atoms,ares-comp-11,897782
+MetaData: ntimestep,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank1,ntimestep,ares-comp-11,897782
+MetaData: nprocs,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_8_rank1,nprocs,ares-comp-11,897782
+MetaData: boxxlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank1,boxxlo,ares-comp-11,897782
+MetaData: boxxhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank1,boxxhi,ares-comp-11,897782
+MetaData: boxylo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank1,boxylo,ares-comp-11,897782
+MetaData: boxyhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank1,boxyhi,ares-comp-11,897782
+MetaData: boxzlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank1,boxzlo,ares-comp-11,897782
+MetaData: boxzhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank1,boxzhi,ares-comp-11,897782
+MetaData: natoms,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank1,natoms,ares-comp-11,897782
+MetaData: ncolumns,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_8_rank1,ncolumns,ares-comp-11,897782
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_8_rank1,nme,ares-comp-11,897782
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_8_rank1,offset,ares-comp-11,897782
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:34,8000,8,ShapeID::GlobalArray,0,0,0,step_8_rank1,atoms,ares-comp-11,897782
+MetaData: ntimestep,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank1,ntimestep,ares-comp-11,897782
+MetaData: nprocs,,,,False,23:18:35,1,4,ShapeID::GlobalValue,0,0,0,step_9_rank1,nprocs,ares-comp-11,897782
+MetaData: boxxlo,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank1,boxxlo,ares-comp-11,897782
+MetaData: boxxhi,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank1,boxxhi,ares-comp-11,897782
+MetaData: boxylo,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank1,boxylo,ares-comp-11,897782
+MetaData: boxyhi,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank1,boxyhi,ares-comp-11,897782
+MetaData: boxzlo,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank1,boxzlo,ares-comp-11,897782
+MetaData: boxzhi,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank1,boxzhi,ares-comp-11,897782
+MetaData: natoms,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank1,natoms,ares-comp-11,897782
+MetaData: ncolumns,,,,False,23:18:35,1,4,ShapeID::GlobalValue,0,0,0,step_9_rank1,ncolumns,ares-comp-11,897782
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:35,1,8,ShapeID::LocalValue,0,0,0,step_9_rank1,nme,ares-comp-11,897782
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:35,1,8,ShapeID::LocalValue,0,0,0,step_9_rank1,offset,ares-comp-11,897782
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:35,8000,8,ShapeID::GlobalArray,0,0,0,step_9_rank1,atoms,ares-comp-11,897782
+MetaData: ntimestep,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank1,ntimestep,ares-comp-11,897782
+MetaData: nprocs,,,,False,23:18:35,1,4,ShapeID::GlobalValue,0,0,0,step_10_rank1,nprocs,ares-comp-11,897782
+MetaData: boxxlo,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank1,boxxlo,ares-comp-11,897782
+MetaData: boxxhi,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank1,boxxhi,ares-comp-11,897782
+MetaData: boxylo,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank1,boxylo,ares-comp-11,897782
+MetaData: boxyhi,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank1,boxyhi,ares-comp-11,897782
+MetaData: boxzlo,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank1,boxzlo,ares-comp-11,897782
+MetaData: boxzhi,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank1,boxzhi,ares-comp-11,897782
+MetaData: natoms,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank1,natoms,ares-comp-11,897782
+MetaData: ncolumns,,,,False,23:18:35,1,4,ShapeID::GlobalValue,0,0,0,step_10_rank1,ncolumns,ares-comp-11,897782
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:35,1,8,ShapeID::LocalValue,0,0,0,step_10_rank1,nme,ares-comp-11,897782
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:35,1,8,ShapeID::LocalValue,0,0,0,step_10_rank1,offset,ares-comp-11,897782
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:35,8000,8,ShapeID::GlobalArray,0,0,0,step_10_rank1,atoms,ares-comp-11,897782
+MetaData: ntimestep,,,,False,23:18:36,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank1,ntimestep,ares-comp-11,897782
+MetaData: nprocs,,,,False,23:18:36,1,4,ShapeID::GlobalValue,0,0,0,step_11_rank1,nprocs,ares-comp-11,897782
+MetaData: boxxlo,,,,False,23:18:36,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank1,boxxlo,ares-comp-11,897782
+MetaData: boxxhi,,,,False,23:18:36,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank1,boxxhi,ares-comp-11,897782
+MetaData: boxylo,,,,False,23:18:36,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank1,boxylo,ares-comp-11,897782
+MetaData: boxyhi,,,,False,23:18:36,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank1,boxyhi,ares-comp-11,897782
+MetaData: boxzlo,,,,False,23:18:36,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank1,boxzlo,ares-comp-11,897782
+MetaData: boxzhi,,,,False,23:18:36,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank1,boxzhi,ares-comp-11,897782
+MetaData: natoms,,,,False,23:18:36,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank1,natoms,ares-comp-11,897782
+MetaData: ncolumns,,,,False,23:18:36,1,4,ShapeID::GlobalValue,0,0,0,step_11_rank1,ncolumns,ares-comp-11,897782
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:36,1,8,ShapeID::LocalValue,0,0,0,step_11_rank1,nme,ares-comp-11,897782
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:36,1,8,ShapeID::LocalValue,0,0,0,step_11_rank1,offset,ares-comp-11,897782
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:36,8000,8,ShapeID::GlobalArray,0,0,0,step_11_rank1,atoms,ares-comp-11,897782
+MetaData: natoms,,,,False,23:18:33,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank0,natoms,ares-comp-11,897780
+MetaData: ncolumns,,,,False,23:18:33,1,4,ShapeID::GlobalValue,0,0,0,step_6_rank0,ncolumns,ares-comp-11,897780
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:33,1,8,ShapeID::LocalValue,0,0,0,step_6_rank0,nme,ares-comp-11,897780
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:33,1,8,ShapeID::LocalValue,0,0,0,step_6_rank0,offset,ares-comp-11,897780
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:33,8000,8,ShapeID::GlobalArray,0,0,0,step_6_rank0,atoms,ares-comp-11,897780
+MetaData: ntimestep,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank0,ntimestep,ares-comp-11,897780
+MetaData: nprocs,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_7_rank0,nprocs,ares-comp-11,897780
+MetaData: boxxlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank0,boxxlo,ares-comp-11,897780
+MetaData: boxxhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank0,boxxhi,ares-comp-11,897780
+MetaData: boxylo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank0,boxylo,ares-comp-11,897780
+MetaData: boxyhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank0,boxyhi,ares-comp-11,897780
+MetaData: boxzlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank0,boxzlo,ares-comp-11,897780
+MetaData: boxzhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank0,boxzhi,ares-comp-11,897780
+MetaData: natoms,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank0,natoms,ares-comp-11,897780
+MetaData: ncolumns,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_7_rank0,ncolumns,ares-comp-11,897780
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_7_rank0,nme,ares-comp-11,897780
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_7_rank0,offset,ares-comp-11,897780
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:34,8000,8,ShapeID::GlobalArray,0,0,0,step_7_rank0,atoms,ares-comp-11,897780
+MetaData: ntimestep,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank0,ntimestep,ares-comp-11,897780
+MetaData: nprocs,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_8_rank0,nprocs,ares-comp-11,897780
+MetaData: boxxlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank0,boxxlo,ares-comp-11,897780
+MetaData: boxxhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank0,boxxhi,ares-comp-11,897780
+MetaData: boxylo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank0,boxylo,ares-comp-11,897780
+MetaData: boxyhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank0,boxyhi,ares-comp-11,897780
+MetaData: boxzlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank0,boxzlo,ares-comp-11,897780
+MetaData: boxzhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank0,boxzhi,ares-comp-11,897780
+MetaData: natoms,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank0,natoms,ares-comp-11,897780
+MetaData: ncolumns,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_8_rank0,ncolumns,ares-comp-11,897780
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_8_rank0,nme,ares-comp-11,897780
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_8_rank0,offset,ares-comp-11,897780
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:34,8000,8,ShapeID::GlobalArray,0,0,0,step_8_rank0,atoms,ares-comp-11,897780
+MetaData: ntimestep,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank0,ntimestep,ares-comp-11,897780
+MetaData: nprocs,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_9_rank0,nprocs,ares-comp-11,897780
+MetaData: boxxlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank0,boxxlo,ares-comp-11,897780
+MetaData: boxxhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank0,boxxhi,ares-comp-11,897780
+MetaData: boxylo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank0,boxylo,ares-comp-11,897780
+MetaData: boxyhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank0,boxyhi,ares-comp-11,897780
+MetaData: boxzlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank0,boxzlo,ares-comp-11,897780
+MetaData: boxzhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank0,boxzhi,ares-comp-11,897780
+MetaData: natoms,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank0,natoms,ares-comp-11,897780
+MetaData: ncolumns,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_9_rank0,ncolumns,ares-comp-11,897780
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_9_rank0,nme,ares-comp-11,897780
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_9_rank0,offset,ares-comp-11,897780
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:34,8000,8,ShapeID::GlobalArray,0,0,0,step_9_rank0,atoms,ares-comp-11,897780
+MetaData: ntimestep,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank0,ntimestep,ares-comp-11,897780
+MetaData: nprocs,,,,False,23:18:35,1,4,ShapeID::GlobalValue,0,0,0,step_10_rank0,nprocs,ares-comp-11,897780
+MetaData: boxxlo,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank0,boxxlo,ares-comp-11,897780
+MetaData: boxxhi,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank0,boxxhi,ares-comp-11,897780
+MetaData: boxylo,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank0,boxylo,ares-comp-11,897780
+MetaData: boxyhi,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank0,boxyhi,ares-comp-11,897780
+MetaData: boxzlo,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank0,boxzlo,ares-comp-11,897780
+MetaData: boxzhi,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank0,boxzhi,ares-comp-11,897780
+MetaData: natoms,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank0,natoms,ares-comp-11,897780
+MetaData: ncolumns,,,,False,23:18:35,1,4,ShapeID::GlobalValue,0,0,0,step_10_rank0,ncolumns,ares-comp-11,897780
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:35,1,8,ShapeID::LocalValue,0,0,0,step_10_rank0,nme,ares-comp-11,897780
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:35,1,8,ShapeID::LocalValue,0,0,0,step_10_rank0,offset,ares-comp-11,897780
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:35,8000,8,ShapeID::GlobalArray,0,0,0,step_10_rank0,atoms,ares-comp-11,897780
+MetaData: ntimestep,,,,False,23:18:36,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank0,ntimestep,ares-comp-11,897780
+MetaData: nprocs,,,,False,23:18:36,1,4,ShapeID::GlobalValue,0,0,0,step_11_rank0,nprocs,ares-comp-11,897780
+MetaData: boxxlo,,,,False,23:18:36,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank0,boxxlo,ares-comp-11,897780
+MetaData: boxxhi,,,,False,23:18:36,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank0,boxxhi,ares-comp-11,897780
+MetaData: boxylo,,,,False,23:18:36,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank0,boxylo,ares-comp-11,897780
+MetaData: boxyhi,,,,False,23:18:36,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank0,boxyhi,ares-comp-11,897780
+MetaData: boxzlo,,,,False,23:18:36,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank0,boxzlo,ares-comp-11,897780
+MetaData: boxzhi,,,,False,23:18:36,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank0,boxzhi,ares-comp-11,897780
+MetaData: natoms,,,,False,23:18:36,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank0,natoms,ares-comp-11,897780
+MetaData: ncolumns,,,,False,23:18:36,1,4,ShapeID::GlobalValue,0,0,0,step_11_rank0,ncolumns,ares-comp-11,897780
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:36,1,8,ShapeID::LocalValue,0,0,0,step_11_rank0,nme,ares-comp-11,897780
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:36,1,8,ShapeID::LocalValue,0,0,0,step_11_rank0,offset,ares-comp-11,897780
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:36,8000,8,ShapeID::GlobalArray,0,0,0,step_11_rank0,atoms,ares-comp-11,897780
+MetaData: natoms,,,,False,23:18:33,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank3,natoms,ares-comp-11,897781
+MetaData: ncolumns,,,,False,23:18:33,1,4,ShapeID::GlobalValue,0,0,0,step_6_rank3,ncolumns,ares-comp-11,897781
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:33,1,8,ShapeID::LocalValue,0,0,0,step_6_rank3,nme,ares-comp-11,897781
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:33,1,8,ShapeID::LocalValue,0,0,0,step_6_rank3,offset,ares-comp-11,897781
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:33,8000,8,ShapeID::GlobalArray,0,0,0,step_6_rank3,atoms,ares-comp-11,897781
+MetaData: ntimestep,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank3,ntimestep,ares-comp-11,897781
+MetaData: nprocs,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_7_rank3,nprocs,ares-comp-11,897781
+MetaData: boxxlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank3,boxxlo,ares-comp-11,897781
+MetaData: boxxhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank3,boxxhi,ares-comp-11,897781
+MetaData: boxylo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank3,boxylo,ares-comp-11,897781
+MetaData: boxyhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank3,boxyhi,ares-comp-11,897781
+MetaData: boxzlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank3,boxzlo,ares-comp-11,897781
+MetaData: boxzhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank3,boxzhi,ares-comp-11,897781
+MetaData: natoms,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank3,natoms,ares-comp-11,897781
+MetaData: ncolumns,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_7_rank3,ncolumns,ares-comp-11,897781
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_7_rank3,nme,ares-comp-11,897781
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_7_rank3,offset,ares-comp-11,897781
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:34,8000,8,ShapeID::GlobalArray,0,0,0,step_7_rank3,atoms,ares-comp-11,897781
+MetaData: ntimestep,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank3,ntimestep,ares-comp-11,897781
+MetaData: nprocs,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_8_rank3,nprocs,ares-comp-11,897781
+MetaData: boxxlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank3,boxxlo,ares-comp-11,897781
+MetaData: boxxhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank3,boxxhi,ares-comp-11,897781
+MetaData: boxylo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank3,boxylo,ares-comp-11,897781
+MetaData: boxyhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank3,boxyhi,ares-comp-11,897781
+MetaData: boxzlo,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank3,boxzlo,ares-comp-11,897781
+MetaData: boxzhi,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank3,boxzhi,ares-comp-11,897781
+MetaData: natoms,,,,False,23:18:34,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank3,natoms,ares-comp-11,897781
+MetaData: ncolumns,,,,False,23:18:34,1,4,ShapeID::GlobalValue,0,0,0,step_8_rank3,ncolumns,ares-comp-11,897781
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_8_rank3,nme,ares-comp-11,897781
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:34,1,8,ShapeID::LocalValue,0,0,0,step_8_rank3,offset,ares-comp-11,897781
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:34,8000,8,ShapeID::GlobalArray,0,0,0,step_8_rank3,atoms,ares-comp-11,897781
+MetaData: ntimestep,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank3,ntimestep,ares-comp-11,897781
+MetaData: nprocs,,,,False,23:18:35,1,4,ShapeID::GlobalValue,0,0,0,step_9_rank3,nprocs,ares-comp-11,897781
+MetaData: boxxlo,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank3,boxxlo,ares-comp-11,897781
+MetaData: boxxhi,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank3,boxxhi,ares-comp-11,897781
+MetaData: boxylo,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank3,boxylo,ares-comp-11,897781
+MetaData: boxyhi,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank3,boxyhi,ares-comp-11,897781
+MetaData: boxzlo,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank3,boxzlo,ares-comp-11,897781
+MetaData: boxzhi,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank3,boxzhi,ares-comp-11,897781
+MetaData: natoms,,,,False,23:18:35,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank3,natoms,ares-comp-11,897781
+MetaData: ncolumns,,,,False,23:18:35,1,4,ShapeID::GlobalValue,0,0,0,step_9_rank3,ncolumns,ares-comp-11,897781
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:35,1,8,ShapeID::LocalValue,0,0,0,step_9_rank3,nme,ares-comp-11,897781
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:35,1,8,ShapeID::LocalValue,0,0,0,step_9_rank3,offset,ares-comp-12,378732
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:47,8000,8,ShapeID::GlobalArray,0,0,0,step_9_rank0,atoms,ares-comp-12,378732
+MetaData: ntimestep,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank0,ntimestep,ares-comp-12,378732
+MetaData: nprocs,,,,False,23:18:48,1,4,ShapeID::GlobalValue,0,0,0,step_10_rank0,nprocs,ares-comp-12,378732
+MetaData: boxxlo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank0,boxxlo,ares-comp-12,378732
+MetaData: boxxhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank0,boxxhi,ares-comp-12,378732
+MetaData: boxylo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank0,boxylo,ares-comp-12,378732
+MetaData: boxyhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank0,boxyhi,ares-comp-12,378732
+MetaData: boxzlo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank0,boxzlo,ares-comp-12,378732
+MetaData: boxzhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank0,boxzhi,ares-comp-12,378732
+MetaData: natoms,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank0,natoms,ares-comp-12,378732
+MetaData: ncolumns,,,,False,23:18:48,1,4,ShapeID::GlobalValue,0,0,0,step_10_rank0,ncolumns,ares-comp-12,378732
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:48,1,8,ShapeID::LocalValue,0,0,0,step_10_rank0,nme,ares-comp-12,378732
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:48,1,8,ShapeID::LocalValue,0,0,0,step_10_rank0,offset,ares-comp-12,378732
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:48,8000,8,ShapeID::GlobalArray,0,0,0,step_10_rank0,atoms,ares-comp-12,378732
+MetaData: ntimestep,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank0,ntimestep,ares-comp-12,378732
+MetaData: nprocs,,,,False,23:18:48,1,4,ShapeID::GlobalValue,0,0,0,step_11_rank0,nprocs,ares-comp-12,378732
+MetaData: boxxlo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank0,boxxlo,ares-comp-12,378732
+MetaData: boxxhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank0,boxxhi,ares-comp-12,378732
+MetaData: boxylo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank0,boxylo,ares-comp-12,378732
+MetaData: boxyhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank0,boxyhi,ares-comp-12,378732
+MetaData: boxzlo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank0,boxzlo,ares-comp-12,378732
+MetaData: boxzhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank0,boxzhi,ares-comp-12,378732
+MetaData: natoms,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank0,natoms,ares-comp-12,378732
+MetaData: ncolumns,,,,False,23:18:48,1,4,ShapeID::GlobalValue,0,0,0,step_11_rank0,ncolumns,ares-comp-12,378732
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:48,1,8,ShapeID::LocalValue,0,0,0,step_11_rank0,nme,ares-comp-12,378732
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:48,1,8,ShapeID::LocalValue,0,0,0,step_11_rank0,offset,ares-comp-12,378732
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:48,8000,8,ShapeID::GlobalArray,0,0,0,step_11_rank0,atoms,ares-comp-12,378732
+MetaData: natoms,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank1,natoms,ares-comp-12,378729
+MetaData: ncolumns,,,,False,23:18:46,1,4,ShapeID::GlobalValue,0,0,0,step_6_rank1,ncolumns,ares-comp-12,378729
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:46,1,8,ShapeID::LocalValue,0,0,0,step_6_rank1,nme,ares-comp-12,378729
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:46,1,8,ShapeID::LocalValue,0,0,0,step_6_rank1,offset,ares-comp-12,378729
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:46,8000,8,ShapeID::GlobalArray,0,0,0,step_6_rank1,atoms,ares-comp-12,378729
+MetaData: ntimestep,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank1,ntimestep,ares-comp-12,378729
+MetaData: nprocs,,,,False,23:18:47,1,4,ShapeID::GlobalValue,0,0,0,step_7_rank1,nprocs,ares-comp-12,378729
+MetaData: boxxlo,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank1,boxxlo,ares-comp-12,378729
+MetaData: boxxhi,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank1,boxxhi,ares-comp-12,378729
+MetaData: boxylo,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank1,boxylo,ares-comp-12,378729
+MetaData: boxyhi,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank1,boxyhi,ares-comp-12,378729
+MetaData: boxzlo,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank1,boxzlo,ares-comp-12,378729
+MetaData: boxzhi,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank1,boxzhi,ares-comp-12,378729
+MetaData: natoms,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank1,natoms,ares-comp-12,378729
+MetaData: ncolumns,,,,False,23:18:47,1,4,ShapeID::GlobalValue,0,0,0,step_7_rank1,ncolumns,ares-comp-12,378729
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:47,1,8,ShapeID::LocalValue,0,0,0,step_7_rank1,nme,ares-comp-12,378729
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:47,1,8,ShapeID::LocalValue,0,0,0,step_7_rank1,offset,ares-comp-12,378729
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:47,8000,8,ShapeID::GlobalArray,0,0,0,step_7_rank1,atoms,ares-comp-12,378729
+MetaData: ntimestep,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank1,ntimestep,ares-comp-12,378729
+MetaData: nprocs,,,,False,23:18:47,1,4,ShapeID::GlobalValue,0,0,0,step_8_rank1,nprocs,ares-comp-12,378729
+MetaData: boxxlo,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank1,boxxlo,ares-comp-12,378729
+MetaData: boxxhi,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank1,boxxhi,ares-comp-12,378729
+MetaData: boxylo,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank1,boxylo,ares-comp-12,378729
+MetaData: boxyhi,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank1,boxyhi,ares-comp-12,378729
+MetaData: boxzlo,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank1,boxzlo,ares-comp-12,378729
+MetaData: boxzhi,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank1,boxzhi,ares-comp-12,378729
+MetaData: natoms,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank1,natoms,ares-comp-12,378729
+MetaData: ncolumns,,,,False,23:18:47,1,4,ShapeID::GlobalValue,0,0,0,step_8_rank1,ncolumns,ares-comp-12,378729
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:47,1,8,ShapeID::LocalValue,0,0,0,step_8_rank1,nme,ares-comp-12,378729
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:47,1,8,ShapeID::LocalValue,0,0,0,step_8_rank1,offset,ares-comp-12,378729
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:47,8000,8,ShapeID::GlobalArray,0,0,0,step_8_rank1,atoms,ares-comp-12,378729
+MetaData: ntimestep,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank1,ntimestep,ares-comp-12,378729
+MetaData: nprocs,,,,False,23:18:48,1,4,ShapeID::GlobalValue,0,0,0,step_9_rank1,nprocs,ares-comp-12,378729
+MetaData: boxxlo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank1,boxxlo,ares-comp-12,378729
+MetaData: boxxhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank1,boxxhi,ares-comp-12,378729
+MetaData: boxylo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank1,boxylo,ares-comp-12,378729
+MetaData: boxyhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank1,boxyhi,ares-comp-12,378729
+MetaData: boxzlo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank1,boxzlo,ares-comp-12,378729
+MetaData: boxzhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank1,boxzhi,ares-comp-12,378729
+MetaData: natoms,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank1,natoms,ares-comp-12,378729
+MetaData: ncolumns,,,,False,23:18:48,1,4,ShapeID::GlobalValue,0,0,0,step_9_rank1,ncolumns,ares-comp-12,378729
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:48,1,8,ShapeID::LocalValue,0,0,0,step_9_rank1,nme,ares-comp-12,378729
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:48,1,8,ShapeID::LocalValue,0,0,0,step_9_rank1,offset,ares-comp-12,378729
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:48,8000,8,ShapeID::GlobalArray,0,0,0,step_9_rank1,atoms,ares-comp-12,378729
+MetaData: ntimestep,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank1,ntimestep,ares-comp-12,378729
+MetaData: nprocs,,,,False,23:18:48,1,4,ShapeID::GlobalValue,0,0,0,step_10_rank1,nprocs,ares-comp-12,378729
+MetaData: boxxlo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank1,boxxlo,ares-comp-12,378729
+MetaData: boxxhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank1,boxxhi,ares-comp-12,378729
+MetaData: boxylo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank1,boxylo,ares-comp-12,378729
+MetaData: boxyhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank1,boxyhi,ares-comp-12,378729
+MetaData: boxzlo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank1,boxzlo,ares-comp-12,378729
+MetaData: boxzhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank1,boxzhi,ares-comp-12,378729
+MetaData: natoms,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank1,natoms,ares-comp-12,378729
+MetaData: ncolumns,,,,False,23:18:48,1,4,ShapeID::GlobalValue,0,0,0,step_10_rank1,ncolumns,ares-comp-12,378729
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:48,1,8,ShapeID::LocalValue,0,0,0,step_10_rank1,nme,ares-comp-12,378729
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:48,1,8,ShapeID::LocalValue,0,0,0,step_10_rank1,offset,ares-comp-12,378729
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:48,8000,8,ShapeID::GlobalArray,0,0,0,step_10_rank1,atoms,ares-comp-12,378729
+MetaData: ntimestep,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank1,ntimestep,ares-comp-12,378729
+MetaData: nprocs,,,,False,23:18:49,1,4,ShapeID::GlobalValue,0,0,0,step_11_rank1,nprocs,ares-comp-12,378729
+MetaData: boxxlo,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank1,boxxlo,ares-comp-12,378729
+MetaData: boxxhi,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank1,boxxhi,ares-comp-12,378729
+MetaData: boxylo,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank1,boxylo,ares-comp-12,378729
+MetaData: boxyhi,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank1,boxyhi,ares-comp-12,378729
+MetaData: boxzlo,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank1,boxzlo,ares-comp-12,378729
+MetaData: boxzhi,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank1,boxzhi,ares-comp-12,378729
+MetaData: natoms,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank1,natoms,ares-comp-12,378729
+MetaData: ncolumns,,,,False,23:18:49,1,4,ShapeID::GlobalValue,0,0,0,step_11_rank1,ncolumns,ares-comp-12,378729
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:49,1,8,ShapeID::LocalValue,0,0,0,step_11_rank1,nme,ares-comp-12,378729
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:49,1,8,ShapeID::LocalValue,0,0,0,step_11_rank1,offset,ares-comp-12,378729
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:49,8000,8,ShapeID::GlobalArray,0,0,0,step_11_rank1,atoms,ares-comp-12,378729
+,ShapeID::GlobalValue,0,0,0,step_6_rank3,boxzhi,ares-comp-12,378730
+MetaData: natoms,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank3,natoms,ares-comp-12,378730
+MetaData: ncolumns,,,,False,23:18:46,1,4,ShapeID::GlobalValue,0,0,0,step_6_rank3,ncolumns,ares-comp-12,378730
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:46,1,8,ShapeID::LocalValue,0,0,0,step_6_rank3,nme,ares-comp-12,378730
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:46,1,8,ShapeID::LocalValue,0,0,0,step_6_rank3,offset,ares-comp-12,378730
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:46,8000,8,ShapeID::GlobalArray,0,0,0,step_6_rank3,atoms,ares-comp-12,378730
+MetaData: ntimestep,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank3,ntimestep,ares-comp-12,378730
+MetaData: nprocs,,,,False,23:18:47,1,4,ShapeID::GlobalValue,0,0,0,step_7_rank3,nprocs,ares-comp-12,378730
+MetaData: boxxlo,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank3,boxxlo,ares-comp-12,378730
+MetaData: boxxhi,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank3,boxxhi,ares-comp-12,378730
+MetaData: boxylo,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank3,boxylo,ares-comp-12,378730
+MetaData: boxyhi,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank3,boxyhi,ares-comp-12,378730
+MetaData: boxzlo,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank3,boxzlo,ares-comp-12,378730
+MetaData: boxzhi,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank3,boxzhi,ares-comp-12,378730
+MetaData: natoms,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank3,natoms,ares-comp-12,378730
+MetaData: ncolumns,,,,False,23:18:47,1,4,ShapeID::GlobalValue,0,0,0,step_7_rank3,ncolumns,ares-comp-12,378730
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:47,1,8,ShapeID::LocalValue,0,0,0,step_7_rank3,nme,ares-comp-12,378730
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:47,1,8,ShapeID::LocalValue,0,0,0,step_7_rank3,offset,ares-comp-12,378730
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:47,8000,8,ShapeID::GlobalArray,0,0,0,step_7_rank3,atoms,ares-comp-12,378730
+MetaData: ntimestep,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank3,ntimestep,ares-comp-12,378730
+MetaData: nprocs,,,,False,23:18:47,1,4,ShapeID::GlobalValue,0,0,0,step_8_rank3,nprocs,ares-comp-12,378730
+MetaData: boxxlo,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank3,boxxlo,ares-comp-12,378730
+MetaData: boxxhi,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank3,boxxhi,ares-comp-12,378730
+MetaData: boxylo,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank3,boxylo,ares-comp-12,378730
+MetaData: boxyhi,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank3,boxyhi,ares-comp-12,378730
+MetaData: boxzlo,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank3,boxzlo,ares-comp-12,378730
+MetaData: boxzhi,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank3,boxzhi,ares-comp-12,378730
+MetaData: natoms,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank3,natoms,ares-comp-12,378730
+MetaData: ncolumns,,,,False,23:18:47,1,4,ShapeID::GlobalValue,0,0,0,step_8_rank3,ncolumns,ares-comp-12,378730
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:47,1,8,ShapeID::LocalValue,0,0,0,step_8_rank3,nme,ares-comp-12,378730
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:47,1,8,ShapeID::LocalValue,0,0,0,step_8_rank3,offset,ares-comp-12,378730
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:47,8000,8,ShapeID::GlobalArray,0,0,0,step_8_rank3,atoms,ares-comp-12,378730
+MetaData: ntimestep,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank3,ntimestep,ares-comp-12,378730
+MetaData: nprocs,,,,False,23:18:48,1,4,ShapeID::GlobalValue,0,0,0,step_9_rank3,nprocs,ares-comp-12,378730
+MetaData: boxxlo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank3,boxxlo,ares-comp-12,378730
+MetaData: boxxhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank3,boxxhi,ares-comp-12,378730
+MetaData: boxylo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank3,boxylo,ares-comp-12,378730
+MetaData: boxyhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank3,boxyhi,ares-comp-12,378730
+MetaData: boxzlo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank3,boxzlo,ares-comp-12,378730
+MetaData: boxzhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank3,boxzhi,ares-comp-12,378730
+MetaData: natoms,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank3,natoms,ares-comp-12,378730
+MetaData: ncolumns,,,,False,23:18:48,1,4,ShapeID::GlobalValue,0,0,0,step_9_rank3,ncolumns,ares-comp-12,378730
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:48,1,8,ShapeID::LocalValue,0,0,0,step_9_rank3,nme,ares-comp-12,378730
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:48,1,8,ShapeID::LocalValue,0,0,0,step_9_rank3,offset,ares-comp-12,378730
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:48,8000,8,ShapeID::GlobalArray,0,0,0,step_9_rank3,atoms,ares-comp-12,378730
+MetaData: ntimestep,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank3,ntimestep,ares-comp-12,378730
+MetaData: nprocs,,,,False,23:18:48,1,4,ShapeID::GlobalValue,0,0,0,step_10_rank3,nprocs,ares-comp-12,378730
+MetaData: boxxlo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank3,boxxlo,ares-comp-12,378730
+MetaData: boxxhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank3,boxxhi,ares-comp-12,378730
+MetaData: boxylo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank3,boxylo,ares-comp-12,378730
+MetaData: boxyhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank3,boxyhi,ares-comp-12,378730
+MetaData: boxzlo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank3,boxzlo,ares-comp-12,378730
+MetaData: boxzhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank3,boxzhi,ares-comp-12,378730
+MetaData: natoms,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank3,natoms,ares-comp-12,378730
+MetaData: ncolumns,,,,False,23:18:48,1,4,ShapeID::GlobalValue,0,0,0,step_10_rank3,ncolumns,ares-comp-12,378730
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:48,1,8,ShapeID::LocalValue,0,0,0,step_10_rank3,nme,ares-comp-12,378730
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:48,1,8,ShapeID::LocalValue,0,0,0,step_10_rank3,offset,ares-comp-12,378730
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:48,8000,8,ShapeID::GlobalArray,0,0,0,step_10_rank3,atoms,ares-comp-12,378730
+MetaData: ntimestep,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank3,ntimestep,ares-comp-12,378730
+MetaData: nprocs,,,,False,23:18:49,1,4,ShapeID::GlobalValue,0,0,0,step_11_rank3,nprocs,ares-comp-12,378730
+MetaData: boxxlo,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank3,boxxlo,ares-comp-12,378730
+MetaData: boxxhi,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank3,boxxhi,ares-comp-12,378730
+MetaData: boxylo,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank3,boxylo,ares-comp-12,378730
+MetaData: boxyhi,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank3,boxyhi,ares-comp-12,378730
+MetaData: boxzlo,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank3,boxzlo,ares-comp-12,378730
+MetaData: boxzhi,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank3,boxzhi,ares-comp-12,378730
+MetaData: natoms,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank3,natoms,ares-comp-12,378730
+MetaData: ncolumns,,,,False,23:18:49,1,4,ShapeID::GlobalValue,0,0,0,step_11_rank3,ncolumns,ares-comp-12,378730
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:49,1,8,ShapeID::LocalValue,0,0,0,step_11_rank3,nme,ares-comp-12,378730
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:49,1,8,ShapeID::LocalValue,0,0,0,step_11_rank3,offset,ares-comp-12,378730
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:49,8000,8,ShapeID::GlobalArray,0,0,0,step_11_rank3,atoms,ares-comp-12,378730
+,ShapeID::GlobalValue,0,0,0,step_6_rank2,boxzhi,ares-comp-12,378731
+MetaData: natoms,,,,False,23:18:46,1,8,ShapeID::GlobalValue,0,0,0,step_6_rank2,natoms,ares-comp-12,378731
+MetaData: ncolumns,,,,False,23:18:46,1,4,ShapeID::GlobalValue,0,0,0,step_6_rank2,ncolumns,ares-comp-12,378731
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:46,1,8,ShapeID::LocalValue,0,0,0,step_6_rank2,nme,ares-comp-12,378731
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:46,1,8,ShapeID::LocalValue,0,0,0,step_6_rank2,offset,ares-comp-12,378731
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:46,8000,8,ShapeID::GlobalArray,0,0,0,step_6_rank2,atoms,ares-comp-12,378731
+MetaData: ntimestep,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank2,ntimestep,ares-comp-12,378731
+MetaData: nprocs,,,,False,23:18:47,1,4,ShapeID::GlobalValue,0,0,0,step_7_rank2,nprocs,ares-comp-12,378731
+MetaData: boxxlo,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank2,boxxlo,ares-comp-12,378731
+MetaData: boxxhi,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank2,boxxhi,ares-comp-12,378731
+MetaData: boxylo,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank2,boxylo,ares-comp-12,378731
+MetaData: boxyhi,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank2,boxyhi,ares-comp-12,378731
+MetaData: boxzlo,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank2,boxzlo,ares-comp-12,378731
+MetaData: boxzhi,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank2,boxzhi,ares-comp-12,378731
+MetaData: natoms,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_7_rank2,natoms,ares-comp-12,378731
+MetaData: ncolumns,,,,False,23:18:47,1,4,ShapeID::GlobalValue,0,0,0,step_7_rank2,ncolumns,ares-comp-12,378731
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:47,1,8,ShapeID::LocalValue,0,0,0,step_7_rank2,nme,ares-comp-12,378731
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:47,1,8,ShapeID::LocalValue,0,0,0,step_7_rank2,offset,ares-comp-12,378731
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:47,8000,8,ShapeID::GlobalArray,0,0,0,step_7_rank2,atoms,ares-comp-12,378731
+MetaData: ntimestep,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank2,ntimestep,ares-comp-12,378731
+MetaData: nprocs,,,,False,23:18:47,1,4,ShapeID::GlobalValue,0,0,0,step_8_rank2,nprocs,ares-comp-12,378731
+MetaData: boxxlo,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank2,boxxlo,ares-comp-12,378731
+MetaData: boxxhi,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank2,boxxhi,ares-comp-12,378731
+MetaData: boxylo,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank2,boxylo,ares-comp-12,378731
+MetaData: boxyhi,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank2,boxyhi,ares-comp-12,378731
+MetaData: boxzlo,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank2,boxzlo,ares-comp-12,378731
+MetaData: boxzhi,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank2,boxzhi,ares-comp-12,378731
+MetaData: natoms,,,,False,23:18:47,1,8,ShapeID::GlobalValue,0,0,0,step_8_rank2,natoms,ares-comp-12,378731
+MetaData: ncolumns,,,,False,23:18:47,1,4,ShapeID::GlobalValue,0,0,0,step_8_rank2,ncolumns,ares-comp-12,378731
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:47,1,8,ShapeID::LocalValue,0,0,0,step_8_rank2,nme,ares-comp-12,378731
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:47,1,8,ShapeID::LocalValue,0,0,0,step_8_rank2,offset,ares-comp-12,378731
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:47,8000,8,ShapeID::GlobalArray,0,0,0,step_8_rank2,atoms,ares-comp-12,378731
+MetaData: ntimestep,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank2,ntimestep,ares-comp-12,378731
+MetaData: nprocs,,,,False,23:18:48,1,4,ShapeID::GlobalValue,0,0,0,step_9_rank2,nprocs,ares-comp-12,378731
+MetaData: boxxlo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank2,boxxlo,ares-comp-12,378731
+MetaData: boxxhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank2,boxxhi,ares-comp-12,378731
+MetaData: boxylo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank2,boxylo,ares-comp-12,378731
+MetaData: boxyhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank2,boxyhi,ares-comp-12,378731
+MetaData: boxzlo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank2,boxzlo,ares-comp-12,378731
+MetaData: boxzhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank2,boxzhi,ares-comp-12,378731
+MetaData: natoms,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_9_rank2,natoms,ares-comp-12,378731
+MetaData: ncolumns,,,,False,23:18:48,1,4,ShapeID::GlobalValue,0,0,0,step_9_rank2,ncolumns,ares-comp-12,378731
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:48,1,8,ShapeID::LocalValue,0,0,0,step_9_rank2,nme,ares-comp-12,378731
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:48,1,8,ShapeID::LocalValue,0,0,0,step_9_rank2,offset,ares-comp-12,378731
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:48,8000,8,ShapeID::GlobalArray,0,0,0,step_9_rank2,atoms,ares-comp-12,378731
+MetaData: ntimestep,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank2,ntimestep,ares-comp-12,378731
+MetaData: nprocs,,,,False,23:18:48,1,4,ShapeID::GlobalValue,0,0,0,step_10_rank2,nprocs,ares-comp-12,378731
+MetaData: boxxlo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank2,boxxlo,ares-comp-12,378731
+MetaData: boxxhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank2,boxxhi,ares-comp-12,378731
+MetaData: boxylo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank2,boxylo,ares-comp-12,378731
+MetaData: boxyhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank2,boxyhi,ares-comp-12,378731
+MetaData: boxzlo,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank2,boxzlo,ares-comp-12,378731
+MetaData: boxzhi,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank2,boxzhi,ares-comp-12,378731
+MetaData: natoms,,,,False,23:18:48,1,8,ShapeID::GlobalValue,0,0,0,step_10_rank2,natoms,ares-comp-12,378731
+MetaData: ncolumns,,,,False,23:18:48,1,4,ShapeID::GlobalValue,0,0,0,step_10_rank2,ncolumns,ares-comp-12,378731
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:48,1,8,ShapeID::LocalValue,0,0,0,step_10_rank2,nme,ares-comp-12,378731
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:48,1,8,ShapeID::LocalValue,0,0,0,step_10_rank2,offset,ares-comp-12,378731
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:48,8000,8,ShapeID::GlobalArray,0,0,0,step_10_rank2,atoms,ares-comp-12,378731
+MetaData: ntimestep,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank2,ntimestep,ares-comp-12,378731
+MetaData: nprocs,,,,False,23:18:49,1,4,ShapeID::GlobalValue,0,0,0,step_11_rank2,nprocs,ares-comp-12,378731
+MetaData: boxxlo,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank2,boxxlo,ares-comp-12,378731
+MetaData: boxxhi,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank2,boxxhi,ares-comp-12,378731
+MetaData: boxylo,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank2,boxylo,ares-comp-12,378731
+MetaData: boxyhi,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank2,boxyhi,ares-comp-12,378731
+MetaData: boxzlo,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank2,boxzlo,ares-comp-12,378731
+MetaData: boxzhi,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank2,boxzhi,ares-comp-12,378731
+MetaData: natoms,,,,False,23:18:49,1,8,ShapeID::GlobalValue,0,0,0,step_11_rank2,natoms,ares-comp-12,378731
+MetaData: ncolumns,,,,False,23:18:49,1,4,ShapeID::GlobalValue,0,0,0,step_11_rank2,ncolumns,ares-comp-12,378731
+MetaData: nme,18446744073709551613 ,0 ,1 ,False,23:18:49,1,8,ShapeID::LocalValue,0,0,0,step_11_rank2,nme,ares-comp-12,378731
+MetaData: offset,18446744073709551613 ,0 ,1 ,False,23:18:49,1,8,ShapeID::LocalValue,0,0,0,step_11_rank2,offset,ares-comp-12,378731
+MetaData: atoms,1600 5 ,0 0 ,1600 5 ,False,23:18:49,8000,8,ShapeID::GlobalArray,0,0,0,step_11_rank2,atoms,ares-comp-12,378731
